@@ -19,10 +19,7 @@ namespace GeekBrains.Lesson8.Controllers
         {
             _logger = logger;
         }
-        /// <summary>
-        /// Index
-        /// </summary>
-        /// <returns></returns>
+
         public async Task<IActionResult> Index()
         {
             
