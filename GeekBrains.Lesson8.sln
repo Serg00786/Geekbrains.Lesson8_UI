@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBrains.Lesson8", "GeekBrains.Lesson8.csproj", "{31A95F73-0274-45B2-8DA6-4B12B98121E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBrains.Lesson8.Data", "..\GeekBrains.Lesson8.Data\GeekBrains.Lesson8.Data.csproj", "{BDD94BBD-0556-45DE-AE22-2504C787E35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A95F73-0274-45B2-8DA6-4B12B98121E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A95F73-0274-45B2-8DA6-4B12B98121E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A95F73-0274-45B2-8DA6-4B12B98121E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A95F73-0274-45B2-8DA6-4B12B98121E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD94BBD-0556-45DE-AE22-2504C787E35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD94BBD-0556-45DE-AE22-2504C787E35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD94BBD-0556-45DE-AE22-2504C787E35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD94BBD-0556-45DE-AE22-2504C787E35A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B397C6E-E518-4344-B419-78E569319058}
+	EndGlobalSection
+EndGlobal
